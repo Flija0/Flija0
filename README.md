@@ -1,6 +1,6 @@
 - 👋 Hi, I’m FLIJA Youssef
 - 👀 I’m interested in Designing and Web development
-- 📫 How to reach me Youssefflija2000@gmail.com
+- 📫 How to reach me Youssef.flija@esprit.tn
 <!--- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 --->
