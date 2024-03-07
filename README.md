@@ -95,6 +95,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Flija0/Flija0/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/31h5jdvyyunvmi32wgnqce636yai">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31h5jdvyyunvmi32wgnqce636yai&count=1" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
