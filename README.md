@@ -104,9 +104,9 @@ Experience includes:
 
 ## 📫 Contact
 
-- LinkedIn: (add your link)
-- Email: (add your email)
-- Portfolio: (optional)
+- LinkedIn: https://www.linkedin.com/in/flija-youssef/
+- Email: youssefflija2000@gmail.com
+- Portfolio: https://youssefflija.netlify.app/
 
 ---
 
