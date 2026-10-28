@@ -106,7 +106,7 @@ Experience includes:
 
 - LinkedIn: https://www.linkedin.com/in/flija-youssef/
 - Email: youssefflija2000@gmail.com
-- Portfolio: https://youssefflija.netlify.app/
+- Portfolio: https://youssefflija.framer.ai/
 
 ---
 
